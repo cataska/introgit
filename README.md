@@ -1,1 +1,1 @@
-Simple introduction to Git in tranditional chinese
+Simple introduction to Git in traditional chinese
